@@ -1,6 +1,10 @@
 title: База знаний
 href: index.yaml
 items: 
+  - name: Редакционная политика
+    items:
+      - name: Типичные ошибки технического текста
+        href: editorial-policy/common-writing-mistakes.md
   - name: Структура технической статьи
     href: about.md
   - name: Дополнительная страница
